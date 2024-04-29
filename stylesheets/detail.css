@@ -1,0 +1,17 @@
+.bg-lightgreen {
+    background-color: #d1f7d5 !important;
+}
+
+.bg-lightyellow {
+    background-color: #fff4cc !important;
+}
+
+.bg-lightred {
+    background-color: #ffd6d6 !important;
+}
+
+@media (min-width: 992px) {
+    .w-lg-50 {
+        max-width: 50% !important;
+    }
+}
